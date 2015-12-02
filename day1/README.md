@@ -2,6 +2,10 @@
 
 ## Day 1
 
+### How to run it?:
+
+The program takes the list provided in the challenge as a command line argument and thats it.
+
 ### The challenge:
 
 --- Day 1: Not Quite Lisp ---
@@ -38,3 +42,10 @@ For example:
 
 What is the position of the character that causes Santa to first enter the basement?
 
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, you should return to your advent calendar and try another puzzle.
+
+If you still want to see it, you can get your puzzle input.
+
+You can also [Shareon Twitter Google+ Reddit] this puzzle.
